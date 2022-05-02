@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#detailed_news > div{
+    width: 60%;
+    margin: 50px auto;
+    text-align: center;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#detailed_news img{
+    height: 400px;
+    width: 100%;
+}
+
+#detailed_news h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+#detailed_news p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}

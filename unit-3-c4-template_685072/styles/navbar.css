@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#navbar > div{
+    display: flex;
+    padding: 15px 30px;
+    gap: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: violet;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#search_input{
+    border-radius: 20px;
+    width: 60%;
+    padding: 0px 20px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+#navbar > div > h1:hover{
+    cursor: pointer;
+}

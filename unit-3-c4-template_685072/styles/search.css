@@ -1,0 +1,27 @@
+/* results css start */
+#results{
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.news{
+    padding: 10px;
+    display: flex;
+    margin-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.news > div:nth-child(2){
+    padding: 0px 0px 0px 15px;  
+}
+
+.news p{
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.news img{
+    height: 150px;
+    width: 200px;
+}
+/* results css ends */
